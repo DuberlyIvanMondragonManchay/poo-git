@@ -15,3 +15,7 @@ Enero
 Fechero
 Marzo 
 abril
+
+Estaciones del año
+Verano
+Invierno
